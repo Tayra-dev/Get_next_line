@@ -6,7 +6,7 @@
 /*   By: hle-roi <hle-roi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/24 13:31:28 by hle-roi           #+#    #+#             */
-/*   Updated: 2023/11/06 10:17:35 by hle-roi          ###   ########.fr       */
+/*   Updated: 2023/11/14 11:44:56 by hle-roi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -67,7 +67,6 @@ char	*get_next_buff(char *buff)
 	free(buff);
 	return (result);
 }
-
 
 char	*ft_get_buff(int fd, char *buff)
 {
