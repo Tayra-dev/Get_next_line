@@ -6,7 +6,7 @@
 /*   By: hle-roi <hle-roi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/24 13:30:15 by hle-roi           #+#    #+#             */
-/*   Updated: 2023/11/06 10:11:03 by hle-roi          ###   ########.fr       */
+/*   Updated: 2023/11/06 10:47:50 by hle-roi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <unistd.h>
 # include <fcntl.h>
-# include <stdio.h>
 # include <stdlib.h>
 
 # ifndef BUFFER_SIZE
